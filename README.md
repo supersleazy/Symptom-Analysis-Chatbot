@@ -88,6 +88,20 @@ python src/chatbot.py
 
 ---
 
+## Demo Video 🎬
+
+Watch the chatbot in action:
+https://youtube.com/watch?v=XXXXXXXX
+
+Features demonstrated:
+• Voice input
+• Language detection
+• Symptom extraction
+• AI response generation
+• PDF report generation
+
+---
+
 ## Project Presentation
 
 See docs/project-presentation.pptx
