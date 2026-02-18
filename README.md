@@ -52,7 +52,7 @@ symptom-analysis-chatbot/
 ### Step 1: Clone repository
 
 
-git clone https://github.com/yourusername/symptom-analysis-chatbot.git
+git clone https://github.com/supersleazy/symptom-analysis-chatbot.git
 
 
 ### Step 2: Install dependencies
