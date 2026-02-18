@@ -1,7 +1,7 @@
-# Patient Analysis Chatbot 🩺
+# Symptom Analysis Chatbot 🩺
 
 ## Overview
-The Patient Analysis Chatbot is a multilingual AI-powered healthcare assistant that collects patient symptoms through text or voice input, analyzes them, and generates intelligent responses along with a structured PDF report.
+The Symptom Analysis Chatbot is a multilingual AI-powered healthcare assistant that collects patient symptoms through text or voice input, analyzes them, and generates intelligent responses along with a structured PDF report.
 
 This system helps automate preliminary patient interaction and assists healthcare providers in faster symptom assessment.
 
@@ -33,7 +33,7 @@ This system helps automate preliminary patient interaction and assists healthcar
 ## Project Structure
 
 
-patient-analysis-chatbot/
+symptom-analysis-chatbot/
 │
 ├── src/
 │ └── chatbot.py
@@ -52,7 +52,7 @@ patient-analysis-chatbot/
 ### Step 1: Clone repository
 
 
-git clone https://github.com/yourusername/patient-analysis-chatbot.git
+git clone https://github.com/yourusername/symptom-analysis-chatbot.git
 
 
 ### Step 2: Install dependencies
@@ -111,5 +111,5 @@ See docs/project-presentation.pptx
 ## Author
 
 Avnish Raj  
-B.Tech Computer Science and Artificial Intelligence  
+B.Tech 2028 (Computer Science and Artificial Intelligence)  
 IIIT Delhi
